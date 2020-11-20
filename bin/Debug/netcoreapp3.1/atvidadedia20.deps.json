@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "atvidadedia20/1.0.0": {
+        "runtime": {
+          "atvidadedia20.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "atvidadedia20/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

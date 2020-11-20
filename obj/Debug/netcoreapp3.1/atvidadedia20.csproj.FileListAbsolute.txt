@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\atividade tarde\atvidadedia20\bin\Debug\netcoreapp3.1\atvidadedia20.exe
+C:\Users\dev\Desktop\atividade tarde\atvidadedia20\bin\Debug\netcoreapp3.1\atvidadedia20.deps.json
+C:\Users\dev\Desktop\atividade tarde\atvidadedia20\bin\Debug\netcoreapp3.1\atvidadedia20.runtimeconfig.json
+C:\Users\dev\Desktop\atividade tarde\atvidadedia20\bin\Debug\netcoreapp3.1\atvidadedia20.runtimeconfig.dev.json
+C:\Users\dev\Desktop\atividade tarde\atvidadedia20\bin\Debug\netcoreapp3.1\atvidadedia20.dll
+C:\Users\dev\Desktop\atividade tarde\atvidadedia20\bin\Debug\netcoreapp3.1\atvidadedia20.pdb
+C:\Users\dev\Desktop\atividade tarde\atvidadedia20\obj\Debug\netcoreapp3.1\atvidadedia20.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\atividade tarde\atvidadedia20\obj\Debug\netcoreapp3.1\atvidadedia20.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\atividade tarde\atvidadedia20\obj\Debug\netcoreapp3.1\atvidadedia20.AssemblyInfo.cs
+C:\Users\dev\Desktop\atividade tarde\atvidadedia20\obj\Debug\netcoreapp3.1\atvidadedia20.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\atividade tarde\atvidadedia20\obj\Debug\netcoreapp3.1\atvidadedia20.dll
+C:\Users\dev\Desktop\atividade tarde\atvidadedia20\obj\Debug\netcoreapp3.1\atvidadedia20.pdb
+C:\Users\dev\Desktop\atividade tarde\atvidadedia20\obj\Debug\netcoreapp3.1\atvidadedia20.genruntimeconfig.cache
